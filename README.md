@@ -1,3 +1,5 @@
+瑞信项目使用，不要删除!!!
+
 Jitsi Maven Repository
 
 Bellow is a basic script that describes the basic workflow of deploying a module
